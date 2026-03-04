@@ -25,4 +25,5 @@ This reduces 5V to ~3.3V and protects the Raspberry Pi.
 
 ## 📷 Circuit Diagram
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/74a543f1-081b-404c-80f8-d81f4405968e" />
+<img width="1536" height="803" alt="image" src="https://github.com/user-attachments/assets/ff5fca79-5a16-482d-9932-b7418f7c9b85" />
+
